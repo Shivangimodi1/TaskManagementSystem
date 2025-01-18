@@ -1,6 +1,3 @@
-# TaskManagementSystem
-hr
-
 # Task Management System
 
 ## Overview
