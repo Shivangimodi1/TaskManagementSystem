@@ -6,8 +6,11 @@ The **Task Management System** is a web application built with Node.js that allo
 
 ## Features
 
-- Create new tasks
-- View all tasks
+- Create new tasks - Create Tasks
+- View all tasks - List Tasks
+- Activity Log display
+
+### Functionalities yet to add
 - Update task details
 - Delete tasks
 
